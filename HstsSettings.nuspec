@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>HstsSettings</id>
+    <version>0.0.0</version>
+    <authors>Rasmus Lauridsen</authors>
+    <licenseUrl>https://raw.githubusercontent.com/estei/hsts-site-extension/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/estei/hsts-site-extension</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>     
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <copyright>Copyright 2016 Rasmus Lauridsen</copyright>
+    <tags>hsts azure</tags>
+  </metadata>
+  <files>
+    <file src="src\**\*.*" target="content" />
+  </files>
+</package>
