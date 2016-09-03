@@ -9,7 +9,7 @@
           <conditions>
             <add input="{HTTPS}" pattern="on" ignoreCase="true" />
           </conditions>
-          <action type="Rewrite" value="max-age=31536000 ; includeSubDomains ; preload" />
+          <action type="Rewrite" value="max-age=31536000 ; includeSubDomains" />
         </rule>
       </outboundRules>
     </rewrite>    

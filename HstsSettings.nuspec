@@ -9,12 +9,12 @@
     <projectUrl>https://github.com/estei/hsts-site-extension</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-      Adds the Strict-Transport-Security header (max-age=31536000 ; includeSubDomains ; preload) to https responses.
+      Adds the Strict-Transport-Security header (max-age=31536000 ; includeSubDomains ) to https responses.
     </description>
     <releaseNotes>
     </releaseNotes>
     <copyright>Copyright 2016 Rasmus Lauridsen</copyright>
-    <tags>hsts azure Strict-Transport-Security</tags>
+    <tags>HSTS azure Strict-Transport-Security</tags>
   </metadata>
   <files>
     <file src="src\**\*.*" target="content" />
